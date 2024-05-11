@@ -8,7 +8,7 @@ There are various types of optimization problems, including linear programming, 
 
 Optimization solvers are used in a wide range of fields, including engineering, economics, operations research, data science, machine learning, and many others. They help in making informed decisions, resource allocation, process improvement, and generally finding optimal solutions in complex systems.
 
-### Linear Pgrogramming
+### Linear Programming
 
 Linear programming (LP) is a mathematical optimization technique used to find the best outcome in a mathematical model with linear relationships. It is widely used in various fields, including economics, engineering, logistics, and manufacturing, to optimize resource allocation and decision-making.
 
